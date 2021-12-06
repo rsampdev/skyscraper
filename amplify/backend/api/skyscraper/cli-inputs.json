@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "skyscraper",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/rodneysampsonii/Education/Morehouse/Fall 2021/Senior Capstone Project SWE/final/skyscraper/amplify/backend/api/skyscraper/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
