@@ -2,7 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';import './App.css'
 
-import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
+import { withAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
+
 import Dashboard from './components/Dashboard/Dashboard';
 
 

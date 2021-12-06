@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/ui-react": "^2.1.2",
+    "@aws-amplify/ui-components": "latest",
+    "@aws-amplify/ui-react": "^1.2.25",
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.6.0",
     "@mui/icons-material": "^5.2.1",
@@ -12,7 +13,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "aws": "0.0.3-2",
-    "aws-amplify": "^4.3.10",
+    "aws-amplify": "latest",
     "backend-aws-exports": "^1.0.0",
     "material-ui-icons": "^1.0.0-beta.36",
     "react": "^17.0.2",
